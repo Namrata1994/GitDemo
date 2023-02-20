@@ -13,7 +13,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseTest {
 
-	public WebDriver driver;
+	public ChromeDriver driver;
 	
 	public WebDriver initializeDriver() throws IOException
 	{
@@ -51,3 +51,4 @@ public class BaseTest {
 		 driver= initializeDriver();
 	}
 }
+nbjsbdfjsjdbvhjsbhjsdfjbeshjfbds
